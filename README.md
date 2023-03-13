@@ -1,4 +1,4 @@
-# Tri-ngulo-de-Sierpinski
+# Triangulo-de-Sierpinski
 
 ![2](https://user-images.githubusercontent.com/73798412/224615129-85366765-0ada-45c9-9e6f-852d22686997.png)
 1k iteraciones
